@@ -1,6 +1,8 @@
 # Wolfram-Elementary-Cellular-Automata
 
 ![](img/logo.webp)
+
+The goal of this project (made in haskell) is to implement Wolfram's elementary cellular automaton in the terminal. All rules are implemented (from 0 to 255).
 ## Installation
 This project requires ghc to run
 
