@@ -1,6 +1,6 @@
 # Wolfram-Elementary-Cellular-Automata
 
-![](applicative-parsers-on-haskell-habr.webp)
+![](img/logo.webp)
 ## Installation
 This project requires ghc to run
 
@@ -46,3 +46,7 @@ make
 --move:   a translation to apply on the window. If negative, the window is translated to the left.
 
  If positive, it's translated to the right.
+
+ ![](img/img.png)
+
+ ![](img/img2.png)
