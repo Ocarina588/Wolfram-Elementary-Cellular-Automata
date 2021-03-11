@@ -1,4 +1,4 @@
-# Wolfram-Elementary-Cellular-Automata
+# Wolfram-Elementary-Cellular-Automaton
 
 ![](img/logo.webp)
 
