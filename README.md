@@ -1,4 +1,6 @@
 # Wolfram-Elementary-Cellular-Automata
+
+![](applicative-parsers-on-haskell-habr.webp)
 ## Installation
 This project requires ghc to run
 
